@@ -143,11 +143,11 @@ jalan('⊱⊹⊰━━━━━━━━━━━━━━━━━━━━━�
 jalan('\033[1;91m      \033[1;91m ENTER TOOL USERNAME AND PASSWORD \033[1;0m     ') 
 jalan('⊱⊹⊰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⊱⊹⊰') 
 
-CorrectUsername = "abm"
-CorrectPassword = "abm"
+CorrectUsername = "shonu"
+CorrectPassword = "janu"
 
 loop = 'true'
-while (loop == 'true'):
+while (loop == 'true'):o
     username = raw_input("\033[1;96m[#] \x1b[0;36m Enter Username\x1b[1;92m➤ ")
     if (username == CorrectUsername):
     	password = raw_input("\033[1;96m[#] \x1b[0;36m Enter Password\x1b[1;92m➤ ")
